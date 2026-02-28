@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://i.pinimg.com/1200x/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg" width="400px" height="300px" />
 <p/>
+ 
+ ## Who Am I❔
 <p>Enthusiastic beginner with knowledge of Full-stack, Java and Python development eager to apply skills in real
 world projects. Committed to continuous learning and contributing to the growth of the team and organization</p>
 
@@ -69,4 +71,6 @@ world projects. Committed to continuous learning and contributing to the growth 
 &nbsp;&nbsp;&nbsp;
 <img src="https://i.pinimg.com/1200x/a9/5a/ad/a95aadde4325065401dc6942ea5dad90.jpg" height="40" width="40"/>
 </p>
+
+## connect
 
