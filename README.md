@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://i.pinimg.com/1200x/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg" width="400px" height="300px" />
 
 
-##❔Who AM I
+##❔Who Am I
 <p>Enthusiastic beginner with knowledge of Full-stack, Java and Python development eager to apply skills in real
 world projects. Committed to continuous learning and contributing to the growth of the team and organization</p>
 
@@ -41,7 +41,12 @@ world projects. Committed to continuous learning and contributing to the growth 
 ## 🚀 Skills
 
 ### 💻 Programming
-Java | JavaScript | Python (Basics)
+<ol>
+  <li><img src="https://i.pinimg.com/736x/2f/e1/26/2fe12646b80e3b33fae9024a99211f81.jpg"></li>
+  <li><img src=""></li>
+  <li><img src=""></li>
+
+</ol>
 
 ### 🌐 Frontend
 HTML | CSS | React.js
