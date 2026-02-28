@@ -44,9 +44,8 @@ world projects. Committed to continuous learning and contributing to the growth 
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/7b/25/56/7b2556503cbd9035d51831afd44bf888.jpg" height="40px" width="40px"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30px" width="100px"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px" width="100px"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30px" width="100px"/>
+  <img src="https://i.pinimg.com/1200x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg" height="40px" width="40px"/>
+  <img src="https://i.pinimg.com/736x/1d/be/60/1dbe6034fd59661cfd02d5aa8a79823a.jpg" height="40px" width="40px"/>
 </p>
 
 ### 🌐 Frontend
