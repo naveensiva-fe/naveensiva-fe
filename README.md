@@ -19,31 +19,26 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://i.pinimg.com/1200x/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg" width="400px" height="300px" />
 <p/>
-
-
-##❔Who Am I
 <p>Enthusiastic beginner with knowledge of Full-stack, Java and Python development eager to apply skills in real
 world projects. Committed to continuous learning and contributing to the growth of the team and organization</p>
 
-🎓 Full Stack Developer  
-💡 Interested in AI | Cloud Computing | Java  
-🚀 Building MERN Applications & Real-Time Projects  
-📍 India  
+ 
 
 ---
 
 ## 🧠 About Me
-- 🌱 Currently learning Advanced Java & AI
-- 🔭 Working on MERN Stack Projects
-- 💬 Ask me about Java, React, Node.js
-- ⚡ Goal: To become a high-level Software Engineer in next 3 years
+- 🎓 Education: B.E. Computer Science and Engineering (2023–2027)
+- 📍 Location: India
+- 💻 Full Stack Developer (MERN Stack)
+- ☕ Strong foundation in Java
+- 🚀 Currently building real-world web applications
+- 🌱 Exploring AI & Cloud Technologies
+- 🎯 Goal: To become a skilled Software Engineer
 
+  
 ---
 
-## 🚀 Skills
-
-
-
+## 🚀 Tools & Techonologies
 <p align="center">
 &nbsp;&nbsp;&nbsp;
 <img src="https://i.pinimg.com/736x/7b/25/56/7b2556503cbd9035d51831afd44bf888.jpg" height="40" width="40"/>
