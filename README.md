@@ -41,12 +41,11 @@ world projects. Committed to continuous learning and contributing to the growth 
 ## 🚀 Skills
 
 ### 💻 Programming
-<div display="flex">
-  <img src="https://i.pinimg.com/736x/2f/e1/26/2fe12646b80e3b33fae9024a99211f81.jpg" height="50px" weight="50px" border-radius="10px"><div height="20px" width="100px" background-color="Red" color="white">Java</div>
-  <img src="https://i.pinimg.com/1200x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg"height="50px" weight="50px" border-radius="10px">
-  <img src="https://i.pinimg.com/736x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg"height="50px" weight="50px" border-radius="10px">
-
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/2f/e1/26/2fe12646b80e3b33fae9024a99211f81.jpg" height="50" width="50"/>
+  <img src="https://i.pinimg.com/1200x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg" height="50" width="50"/>
+  <img src="https://i.pinimg.com/736x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" height="50" width="50"/>
+</p>
 
 ### 🌐 Frontend
 HTML | CSS | React.js
