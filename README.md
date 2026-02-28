@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 
 # Hi 👋, I'm Nav Een
+<img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/main/banner.png" width="100%" />
 
 🎓 Full Stack Developer  
 💡 Interested in AI | Cloud Computing | Java  
