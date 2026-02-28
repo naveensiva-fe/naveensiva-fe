@@ -41,12 +41,12 @@ world projects. Committed to continuous learning and contributing to the growth 
 ## 🚀 Skills
 
 ### 💻 Programming
-<ol>
-  <li><img src="https://i.pinimg.com/736x/2f/e1/26/2fe12646b80e3b33fae9024a99211f81.jpg"></li>
-  <li><img src=""></li>
-  <li><img src=""></li>
+<div display="flex">
+  <img src="https://i.pinimg.com/736x/2f/e1/26/2fe12646b80e3b33fae9024a99211f81.jpg" height="100px" weight="100px">
+  <img src="https://i.pinimg.com/1200x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg" height="100px" weight="100px">
+  <img src="https://i.pinimg.com/736x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" height="100px" weight="100px">
 
-</ol>
+</div>
 
 ### 🌐 Frontend
 HTML | CSS | React.js
