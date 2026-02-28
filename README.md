@@ -40,19 +40,22 @@ world projects. Committed to continuous learning and contributing to the growth 
 
 ## 🚀 Skills
 
-### 💻 Programming
+
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/7b/25/56/7b2556503cbd9035d51831afd44bf888.jpg" height="40px" width="40px"/>
   <img src="https://i.pinimg.com/1200x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg" height="40px" width="40px"/>
   <img src="https://i.pinimg.com/736x/1d/be/60/1dbe6034fd59661cfd02d5aa8a79823a.jpg" height="40px" width="40px"/>
 </p>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/7b/25/56/7b2556503cbd9035d51831afd44bf888.jpg" height="40px" width="40px"/>
+  <img src="https://i.pinimg.com/1200x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg" height="40px" width="40px"/>
+  <img src="https://i.pinimg.com/736x/1d/be/60/1dbe6034fd59661cfd02d5aa8a79823a.jpg" height="40px" width="40px"/>
+</p>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/7b/25/56/7b2556503cbd9035d51831afd44bf888.jpg" height="40px" width="40px"/>
+  <img src="https://i.pinimg.com/1200x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg" height="40px" width="40px"/>
+  <img src="https://i.pinimg.com/736x/1d/be/60/1dbe6034fd59661cfd02d5aa8a79823a.jpg" height="40px" width="40px"/>
+</p>
 
-### 🌐 Frontend
-HTML | CSS | React.js
 
-### 🖥 Backend
-Node.js | Express.js
-
-### 🗄 Database
-MongoDB | MySQL
