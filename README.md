@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Naveen</h1>
-<img src="[https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?semt=ais_rp_progressive&w=740&q=80](https://i.pinimg.com/1200x/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg)" width="100px" height="100px" />
+<img src="https://i.pinimg.com/1200x/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg" width="100px" height="100px" />
 
 🎓 Full Stack Developer  
 💡 Interested in AI | Cloud Computing | Java  
