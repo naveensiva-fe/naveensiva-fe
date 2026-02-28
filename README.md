@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!--    
 **naveensiva-fe/naveensiva-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,37 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  
 -->
+
+
+# Hi 👋, I'm Nav Een
+
+🎓 Full Stack Developer  
+💡 Interested in AI | Cloud Computing | Java  
+🚀 Building MERN Applications & Real-Time Projects  
+📍 India  
+
+---
+
+## 🧠 About Me
+- 🌱 Currently learning Advanced Java & AI
+- 🔭 Working on MERN Stack Projects
+- 💬 Ask me about Java, React, Node.js
+- ⚡ Goal: To become a high-level Software Engineer in next 3 years
+
+---
+
+## 🚀 Skills
+
+### 💻 Programming
+Java | JavaScript | Python (Basics)
+
+### 🌐 Frontend
+HTML | CSS | React.js
+
+### 🖥 Backend
+Node.js | Express.js
+
+### 🗄 Database
+MongoDB | MySQL
