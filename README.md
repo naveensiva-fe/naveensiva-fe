@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Naveen</h1>
+<p align="center">
 <img src="https://i.pinimg.com/1200x/7a/54/76/7a54762be77935f15fbc575fd13ac79c.jpg" width="400px" height="300px" />
+<p/>
 
 
 ##❔Who Am I
