@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# <h1>Hi 👋, I'm Naveen</h1>
+<h1>Hi 👋, I'm Naveen</h1>
 <img src="https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?semt=ais_rp_progressive&w=740&q=80" width="100px" height="100px" />
 
 🎓 Full Stack Developer  
