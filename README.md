@@ -72,5 +72,9 @@ world projects. Committed to continuous learning and contributing to the growth 
 <img src="https://i.pinimg.com/1200x/a9/5a/ad/a95aadde4325065401dc6942ea5dad90.jpg" height="40" width="40"/>
 </p>
 
-## connect
+## Connect
 
+<p align="center">
+&nbsp;&nbsp;&nbsp;
+<img src="https://i.pinimg.com/1200x/b2/f8/28/b2f828513f21444829a619ce563d4d4e.jpg" height="40" width="40"/>
+</p>
