@@ -42,9 +42,10 @@ world projects. Committed to continuous learning and contributing to the growth 
 
 ### 💻 Programming
 <p align="center">
-  <img src="https://i.pinimg.com/736x/2f/e1/26/2fe12646b80e3b33fae9024a99211f81.jpg" height="50" width="50"/>
-  <img src="https://i.pinimg.com/1200x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg" height="50" width="50"/>
-  <img src="https://i.pinimg.com/736x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ### 🌐 Frontend
